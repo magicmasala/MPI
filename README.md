@@ -59,6 +59,11 @@ MPI_Finalize();
 
 
 
+
+
+
+
+
 //command
 sudo apt-get install openmpi-bin libopenmpi-dev
 
