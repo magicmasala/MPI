@@ -58,13 +58,8 @@ MPI_Finalize();
 
 
 
-
-
-
-
-
-
 //command
+
 sudo apt-get install openmpi-bin libopenmpi-dev
 
 mpicc MPI.c -o MPI
